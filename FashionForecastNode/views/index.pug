@@ -1,0 +1,15 @@
+extends common/layout 
+
+block layout-content 
+  main#main 
+    .hero
+      .hero-content
+        .hero-text
+          h1#site-title Elevate Your Style
+          p#site-desc Blend fashion with weather to curate personalized style lookbooks tailored to your city's climate.
+        .explore-btn  
+          form(action="/explore" method="get")
+            button#explore-btn(type="submit") Explore
+      .hero-img 
+
+   
