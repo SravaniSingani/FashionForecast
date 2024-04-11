@@ -119,7 +119,7 @@ function getKeywords(weatherDesc, gender) {
         "moderate rain": ["sweater","raincoat"],
         "light rain": ["waterproof", "sweater"],
         "shower rain": ["waterproof", "rainy"],
-        "heavy intensity rain": ["raincoat", "jackets"],
+        "heavy intensity rain": ["sweater","raincoat"],
         "rain": ["turtleneck", "coat", "umbrella"],
         "thunderstorm": ["pullover", "jacket"],
         "snow": ["beanie", "coat", "sweater"],
